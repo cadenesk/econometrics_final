@@ -1,6 +1,6 @@
 # Partisan Lean in Congressional Districts
 
-*** Currently attempting to find the data files and R Script that I ran for this project, but I've included the paper. ***
+***Currently attempting to find the data files and R Script that I ran for this project, but I've included the paper.***
 
 ---
 
